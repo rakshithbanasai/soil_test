@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "421892564395",
+    "project_id": "banas-ai",
+    "storage_bucket": "banas-ai.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421892564395:android:a645c1391dd79c32165eee",
+        "android_client_info": {
+          "package_name": "com.example.banas_ai_video"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421892564395-51rfp8rhjsvsgf7ha3g8jpog4ub0n8tb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.banas_ai_video",
+            "certificate_hash": "594e48fc1addb685aaa7311e2394cd5790ee3d07"
+          }
+        },
+        {
+          "client_id": "421892564395-c43ipcf35rv7lkpi7slvrfqpsdpr2rek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIWgj76z3ujQVU7qQBIX-nUAfeG6ZWOgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421892564395-c43ipcf35rv7lkpi7slvrfqpsdpr2rek.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "421892564395-pkq1eshpodfr48ihs7vhara55p58e7nr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.soilTest"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421892564395:android:11665e6129655d3c165eee",
+        "android_client_info": {
+          "package_name": "com.example.soil_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421892564395-ccbtopoaa9mura64lnpi4ph586hh6i9d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.soil_test",
+            "certificate_hash": "594e48fc1addb685aaa7311e2394cd5790ee3d07"
+          }
+        },
+        {
+          "client_id": "421892564395-c43ipcf35rv7lkpi7slvrfqpsdpr2rek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIWgj76z3ujQVU7qQBIX-nUAfeG6ZWOgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421892564395-c43ipcf35rv7lkpi7slvrfqpsdpr2rek.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "421892564395-pkq1eshpodfr48ihs7vhara55p58e7nr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.soilTest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
