@@ -2,7 +2,6 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:soil_test/Screens/RegistrationScreen.dart';
 import 'package:soil_test/Screens/LanguageSelectionScreen.dart';
 import 'package:soil_test/Services/LanguageProvider.dart';
 import 'package:soil_test/Utils/app_colors.dart';

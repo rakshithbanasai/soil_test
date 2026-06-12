@@ -1,7 +1,5 @@
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:soil_test/main.dart';
-
 void main() {
   testWidgets('App builds without error', (WidgetTester tester) async {
     // Build the app — just verify it doesn't throw.
